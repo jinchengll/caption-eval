@@ -1,0 +1,458 @@
+
+----------4 epcho----------
+CIDEr: 0.143
+Bleu_4: 0.205
+Bleu_3: 0.340
+Bleu_2: 0.484
+Bleu_1: 0.670
+ROUGE_L: 0.584
+METEOR: 0.231
+
+----------8 epcho----------
+CIDEr: 0.149
+Bleu_4: 0.197
+Bleu_3: 0.327
+Bleu_2: 0.464
+Bleu_1: 0.648
+ROUGE_L: 0.579
+METEOR: 0.229
+
+----------12 epcho----------
+CIDEr: 0.096
+Bleu_4: 0.209
+Bleu_3: 0.336
+Bleu_2: 0.466
+Bleu_1: 0.650
+ROUGE_L: 0.569
+METEOR: 0.230
+
+----------16 epcho----------
+CIDEr: 0.102
+Bleu_4: 0.197
+Bleu_3: 0.318
+Bleu_2: 0.435
+Bleu_1: 0.620
+ROUGE_L: 0.556
+METEOR: 0.226
+
+----------20 epcho----------
+CIDEr: 0.124
+Bleu_4: 0.218
+Bleu_3: 0.338
+Bleu_2: 0.461
+Bleu_1: 0.650
+ROUGE_L: 0.575
+METEOR: 0.230
+
+----------24 epcho----------
+CIDEr: 0.117
+Bleu_4: 0.186
+Bleu_3: 0.305
+Bleu_2: 0.430
+Bleu_1: 0.626
+ROUGE_L: 0.560
+METEOR: 0.222
+
+----------28 epcho----------
+CIDEr: 0.105
+Bleu_4: 0.178
+Bleu_3: 0.298
+Bleu_2: 0.434
+Bleu_1: 0.624
+ROUGE_L: 0.554
+METEOR: 0.221
+
+----------32 epcho----------
+CIDEr: 0.075
+Bleu_4: 0.162
+Bleu_3: 0.279
+Bleu_2: 0.402
+Bleu_1: 0.594
+ROUGE_L: 0.528
+METEOR: 0.212
+
+----------36 epcho----------
+CIDEr: 0.078
+Bleu_4: 0.137
+Bleu_3: 0.236
+Bleu_2: 0.354
+Bleu_1: 0.568
+ROUGE_L: 0.500
+METEOR: 0.202
+
+----------40 epcho----------
+CIDEr: 0.073
+Bleu_4: 0.118
+Bleu_3: 0.201
+Bleu_2: 0.309
+Bleu_1: 0.527
+ROUGE_L: 0.467
+METEOR: 0.192
+
+----------44 epcho----------
+CIDEr: 0.061
+Bleu_4: 0.109
+Bleu_3: 0.190
+Bleu_2: 0.295
+Bleu_1: 0.520
+ROUGE_L: 0.451
+METEOR: 0.189
+
+----------48 epcho----------
+CIDEr: 0.036
+Bleu_4: 0.078
+Bleu_3: 0.147
+Bleu_2: 0.245
+Bleu_1: 0.486
+ROUGE_L: 0.409
+METEOR: 0.169
+
+----------52 epcho----------
+CIDEr: 0.045
+Bleu_4: 0.098
+Bleu_3: 0.191
+Bleu_2: 0.298
+Bleu_1: 0.522
+ROUGE_L: 0.456
+METEOR: 0.181
+
+----------56 epcho----------
+CIDEr: 0.044
+Bleu_4: 0.080
+Bleu_3: 0.144
+Bleu_2: 0.238
+Bleu_1: 0.500
+ROUGE_L: 0.419
+METEOR: 0.161
+
+----------60 epcho----------
+CIDEr: 0.046
+Bleu_4: 0.087
+Bleu_3: 0.159
+Bleu_2: 0.261
+Bleu_1: 0.511
+ROUGE_L: 0.438
+METEOR: 0.161
+
+----------64 epcho----------
+CIDEr: 0.073
+Bleu_4: 0.101
+Bleu_3: 0.170
+Bleu_2: 0.274
+Bleu_1: 0.515
+ROUGE_L: 0.440
+METEOR: 0.172
+
+----------68 epcho----------
+CIDEr: 0.056
+Bleu_4: 0.110
+Bleu_3: 0.197
+Bleu_2: 0.313
+Bleu_1: 0.553
+ROUGE_L: 0.469
+METEOR: 0.180
+
+----------72 epcho----------
+CIDEr: 0.057
+Bleu_4: 0.108
+Bleu_3: 0.206
+Bleu_2: 0.320
+Bleu_1: 0.553
+ROUGE_L: 0.486
+METEOR: 0.179
+
+----------76 epcho----------
+CIDEr: 0.047
+Bleu_4: 0.104
+Bleu_3: 0.191
+Bleu_2: 0.303
+Bleu_1: 0.538
+ROUGE_L: 0.448
+METEOR: 0.180
+
+----------80 epcho----------
+CIDEr: 0.031
+Bleu_4: 0.079
+Bleu_3: 0.155
+Bleu_2: 0.261
+Bleu_1: 0.519
+ROUGE_L: 0.444
+METEOR: 0.158
+
+----------84 epcho----------
+CIDEr: 0.046
+Bleu_4: 0.104
+Bleu_3: 0.189
+Bleu_2: 0.295
+Bleu_1: 0.527
+ROUGE_L: 0.441
+METEOR: 0.172
+
+----------88 epcho----------
+CIDEr: 0.043
+Bleu_4: 0.077
+Bleu_3: 0.141
+Bleu_2: 0.237
+Bleu_1: 0.494
+ROUGE_L: 0.407
+METEOR: 0.164
+
+----------92 epcho----------
+CIDEr: 0.048
+Bleu_4: 0.105
+Bleu_3: 0.192
+Bleu_2: 0.303
+Bleu_1: 0.537
+ROUGE_L: 0.440
+METEOR: 0.176
+
+----------96 epcho----------
+CIDEr: 0.035
+Bleu_4: 0.105
+Bleu_3: 0.188
+Bleu_2: 0.298
+Bleu_1: 0.537
+ROUGE_L: 0.443
+METEOR: 0.169
+
+----------100 epcho----------
+CIDEr: 0.047
+Bleu_4: 0.114
+Bleu_3: 0.204
+Bleu_2: 0.317
+Bleu_1: 0.552
+ROUGE_L: 0.468
+METEOR: 0.179
+
+----------104 epcho----------
+CIDEr: 0.058
+Bleu_4: 0.126
+Bleu_3: 0.219
+Bleu_2: 0.336
+Bleu_1: 0.565
+ROUGE_L: 0.484
+METEOR: 0.186
+
+----------108 epcho----------
+CIDEr: 0.058
+Bleu_4: 0.122
+Bleu_3: 0.219
+Bleu_2: 0.337
+Bleu_1: 0.566
+ROUGE_L: 0.487
+METEOR: 0.186
+
+----------112 epcho----------
+CIDEr: 0.058
+Bleu_4: 0.119
+Bleu_3: 0.211
+Bleu_2: 0.329
+Bleu_1: 0.559
+ROUGE_L: 0.475
+METEOR: 0.178
+
+----------116 epcho----------
+CIDEr: 0.046
+Bleu_4: 0.101
+Bleu_3: 0.199
+Bleu_2: 0.317
+Bleu_1: 0.547
+ROUGE_L: 0.472
+METEOR: 0.176
+
+----------120 epcho----------
+CIDEr: 0.048
+Bleu_4: 0.099
+Bleu_3: 0.195
+Bleu_2: 0.310
+Bleu_1: 0.549
+ROUGE_L: 0.470
+METEOR: 0.175
+
+----------124 epcho----------
+CIDEr: 0.064
+Bleu_4: 0.117
+Bleu_3: 0.208
+Bleu_2: 0.322
+Bleu_1: 0.555
+ROUGE_L: 0.483
+METEOR: 0.180
+
+----------128 epcho----------
+CIDEr: 0.062
+Bleu_4: 0.115
+Bleu_3: 0.208
+Bleu_2: 0.322
+Bleu_1: 0.551
+ROUGE_L: 0.485
+METEOR: 0.183
+
+----------132 epcho----------
+CIDEr: 0.069
+Bleu_4: 0.128
+Bleu_3: 0.223
+Bleu_2: 0.338
+Bleu_1: 0.561
+ROUGE_L: 0.489
+METEOR: 0.182
+
+----------136 epcho----------
+CIDEr: 0.066
+Bleu_4: 0.111
+Bleu_3: 0.217
+Bleu_2: 0.339
+Bleu_1: 0.564
+ROUGE_L: 0.489
+METEOR: 0.180
+
+----------140 epcho----------
+CIDEr: 0.068
+Bleu_4: 0.120
+Bleu_3: 0.221
+Bleu_2: 0.341
+Bleu_1: 0.570
+ROUGE_L: 0.493
+METEOR: 0.182
+
+----------144 epcho----------
+CIDEr: 0.051
+Bleu_4: 0.115
+Bleu_3: 0.211
+Bleu_2: 0.328
+Bleu_1: 0.561
+ROUGE_L: 0.479
+METEOR: 0.181
+
+----------148 epcho----------
+CIDEr: 0.051
+Bleu_4: 0.111
+Bleu_3: 0.206
+Bleu_2: 0.324
+Bleu_1: 0.557
+ROUGE_L: 0.474
+METEOR: 0.181
+
+----------152 epcho----------
+CIDEr: 0.056
+Bleu_4: 0.113
+Bleu_3: 0.210
+Bleu_2: 0.330
+Bleu_1: 0.559
+ROUGE_L: 0.476
+METEOR: 0.179
+
+----------156 epcho----------
+CIDEr: 0.062
+Bleu_4: 0.118
+Bleu_3: 0.216
+Bleu_2: 0.338
+Bleu_1: 0.562
+ROUGE_L: 0.483
+METEOR: 0.187
+
+----------160 epcho----------
+CIDEr: 0.062
+Bleu_4: 0.121
+Bleu_3: 0.218
+Bleu_2: 0.337
+Bleu_1: 0.561
+ROUGE_L: 0.486
+METEOR: 0.183
+
+----------164 epcho----------
+CIDEr: 0.051
+Bleu_4: 0.103
+Bleu_3: 0.203
+Bleu_2: 0.321
+Bleu_1: 0.551
+ROUGE_L: 0.477
+METEOR: 0.178
+
+----------168 epcho----------
+CIDEr: 0.056
+Bleu_4: 0.114
+Bleu_3: 0.216
+Bleu_2: 0.337
+Bleu_1: 0.562
+ROUGE_L: 0.484
+METEOR: 0.183
+
+----------172 epcho----------
+CIDEr: 0.058
+Bleu_4: 0.118
+Bleu_3: 0.223
+Bleu_2: 0.345
+Bleu_1: 0.568
+ROUGE_L: 0.490
+METEOR: 0.185
+
+----------176 epcho----------
+CIDEr: 0.052
+Bleu_4: 0.117
+Bleu_3: 0.218
+Bleu_2: 0.337
+Bleu_1: 0.564
+ROUGE_L: 0.488
+METEOR: 0.184
+
+----------180 epcho----------
+CIDEr: 0.055
+Bleu_4: 0.120
+Bleu_3: 0.221
+Bleu_2: 0.344
+Bleu_1: 0.571
+ROUGE_L: 0.489
+METEOR: 0.181
+
+----------184 epcho----------
+CIDEr: 0.054
+Bleu_4: 0.115
+Bleu_3: 0.220
+Bleu_2: 0.344
+Bleu_1: 0.570
+ROUGE_L: 0.490
+METEOR: 0.183
+
+----------188 epcho----------
+CIDEr: 0.062
+Bleu_4: 0.123
+Bleu_3: 0.224
+Bleu_2: 0.341
+Bleu_1: 0.562
+ROUGE_L: 0.485
+METEOR: 0.184
+
+----------192 epcho----------
+CIDEr: 0.061
+Bleu_4: 0.120
+Bleu_3: 0.225
+Bleu_2: 0.346
+Bleu_1: 0.567
+ROUGE_L: 0.493
+METEOR: 0.185
+
+----------196 epcho----------
+CIDEr: 0.055
+Bleu_4: 0.113
+Bleu_3: 0.224
+Bleu_2: 0.348
+Bleu_1: 0.572
+ROUGE_L: 0.493
+METEOR: 0.183
+
+----------200 epcho----------
+CIDEr: 0.056
+Bleu_4: 0.127
+Bleu_3: 0.230
+Bleu_2: 0.353
+Bleu_1: 0.570
+ROUGE_L: 0.499
+METEOR: 0.185
+----------MAXMAX----------
+CIDEr: 0.149
+Bleu_4: 0.218
+Bleu_3: 0.340
+Bleu_2: 0.484
+Bleu_1: 0.670
+ROUGE_L: 0.584
+METEOR: 0.231
