@@ -27,7 +27,7 @@
 
 ### 如何使用
 
-1. **获取这份代码** `git clone https://gitee.com/jinchengll/DeepLearning.git`
+1. **获取这份代码** `git clone https://github.com/jinchengll/DeepLearning.git`
 2. **进入到目录** `cd DeepLearning/tools/caption-eval`
 2. **获取coco evaluation 脚本** `./get_coco_scripts.sh`
 3. 将你的正确的描述格式化成与`data/lable_references/references.txt`一致
