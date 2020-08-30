@@ -53,9 +53,8 @@ class CocoAnnotations:
     def get_image_dict(self, img_name):
         image_hash = int(int(hashlib.sha256(img_name).hexdigest(), 16) % sys.maxint)
         if image_hash in self.img_dict:
-            print 'hash colision: {0}: {1}'.format(image_hash, img_name)
-            exit()
-            # assert self.img_dict[image_hash] == img_name, 'hash colision: {0}: {1}'.format(image_hash, img_name)
+        	# 出现相同的hash值，判断其是否是同一个文件名，不同就发生碰撞，结束。
+        	assert self.img_dict[image_hash] == img_name, 'hash colision: {0}: {1}'.format(image_hash, img_name)
         else:
             self.img_dict[image_hash] = img_name
         image_dict = {"id": image_hash,
@@ -105,9 +104,7 @@ class CocoResFormat:
                 img_id = int(int(hashlib.sha256(id_sent[0]).hexdigest(), 16) % sys.maxint)
                 imgid_sent = {}
                 if img_id in self.caption_dict:
-                    print 'img_id colision: {0}: {1}'.format(img_id, id_sent[0])
-                    exit()
-                    # assert self.caption_dict[img_id] == sent
+                    assert self.caption_dict[img_id] == sent
                 else:
                     self.caption_dict[img_id] = sent
                     imgid_sent['image_id'] = img_id
@@ -150,7 +147,7 @@ def main():
         print '\n\n.....' + epoch + ' is calculate.............'
         # 生成pre_sents的json文件
         prediction_txt_file = os.path.join(caption_output_path, file_name)
-        predictions_json_file = caption_output_path + '/{0}.json'.format(file_name[:file_name.index('.')])
+        predictions_json_file = 'data' + '/{0}.json'.format(file_name[:file_name.index('.')])
         crf = CocoResFormat()
         crf.generator_json(prediction_txt_file, predictions_json_file)
         # 计算得分
